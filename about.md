@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Engineer for 30+ years.  System Architect, Software Architect, Principle Engineer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I've worked from small start-ups to large corporations.  System architecture, distributed systems, gate array design, storage architecture.
+
+Hobbies:  home automation, RPi Kubernetes.
 
 ### Contact me
 
